@@ -4,6 +4,12 @@ main:
    # url: /index.md
   - title: "About"
     url: /about.md
+    - title: "Tools"
+    url: /tools.md
+    - title: "Portfolio"
+    url: /portfolio.md
+    - title: "Experimental"
+    url: /experiments.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
