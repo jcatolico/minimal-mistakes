@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Catolico"
-  avatar           : "cathead_clen.gif"
+  avatar           : "https://jcatolico.github.io/cathed_clen.gif"
   bio              : "Hello, I like biology, data, and programming."
   location         : "California"
   email            : "jason.catolico@gmail.com"
