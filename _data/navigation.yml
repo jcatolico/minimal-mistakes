@@ -1,13 +1,13 @@
 # main links
 main:
-  #- title: "Front Page"
-   # url: /index.md
+  # - title: "Front Page"
+   #   url: /index.md
   - title: "About"
     url: /about.md
   - title: "Tools"
     url: /tools.md
   - title: "Portfolio"
-   url: /portfolio.md
+    url: /portfolio.md
   - title: "Experimental"
     url: /experiments.md
   # - title: "Sample Posts"
